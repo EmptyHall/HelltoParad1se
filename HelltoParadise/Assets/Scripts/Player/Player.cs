@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-
+//SISTEMA DE FALA COM NPC "FEITO" PRECISA ARRUMAR A COLISÃO DO PLAYER COM O NPC
 public class Player : MonoBehaviour
 {
     private Animator playerAnime;
